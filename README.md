@@ -4,7 +4,7 @@ A simple and responsive BMI Calculator built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-👉 https://username.github.io/BMI-Calculator/
+👉 https://Chris1-dev.github.io/BMI-Calculator/
 
 ## 📸 Preview
 
